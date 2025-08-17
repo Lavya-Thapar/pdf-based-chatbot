@@ -1,0 +1,6 @@
+pdfenv/
+__pycache__/
+*.pyc
+qdrant_stores/
+uploads/
+.env

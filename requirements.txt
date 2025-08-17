@@ -1,0 +1,23 @@
+# Web Framework and Server
+fastapi
+uvicorn[standard]
+gunicorn 
+
+# Frontend
+streamlit
+requests
+uuid
+
+# LangChain and AI
+langchain
+langchain-core
+langchain-community
+langchain-groq
+langchain-text-splitters
+
+# PDF Processing
+pypdf2
+
+# Vector Store and Embeddings
+qdrant-client
+sentence-transformers
